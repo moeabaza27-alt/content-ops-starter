@@ -13,7 +13,7 @@ topSections:
       type: TitleBlock
     subtitle: This is the subtitle
     posts: []
-    showThumbnail: true
+    showThumbnail: false
     showExcerpt: true
     showDate: true
     showAuthor: true
