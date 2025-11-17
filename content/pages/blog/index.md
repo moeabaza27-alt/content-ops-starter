@@ -11,7 +11,7 @@ topSections:
         quickly. We appreciate your patience and will be back online soon
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: ''
     posts: []
     showThumbnail: true
     showExcerpt: true
