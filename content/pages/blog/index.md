@@ -3,32 +3,7 @@ title: Blog
 slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
-topSections:
-  - title:
-      text: >-
-        We apologize for the inconvenience our website is temporarily down for
-        scheduled maintenance. Our team is working hard to finish the updates
-        quickly. We appreciate your patience and will be back online soon
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    posts: []
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    variant: big-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-28
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    hoverEffect: move-up
+topSections: []
 styles:
   title:
     textAlign: center
