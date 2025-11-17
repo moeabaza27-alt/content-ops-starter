@@ -20,7 +20,10 @@ topSections:
       altText: Dope design preview
     badge:
       type: Badge
-      label: This is a badge
+      label: >-
+        We apologize for the inconvenience our website is temporarily down for
+        scheduled maintenance. Our team is working hard to finish the updates
+        quickly. We appreciate your patience and will be back online soon
       color: text-primary
     colors: bg-light-fg-dark
     styles:
