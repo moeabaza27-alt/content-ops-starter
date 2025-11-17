@@ -5,7 +5,10 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Website Under Maintained
+      text: >-
+        We apologize for the inconvenience our website is temporarily down for
+        scheduled maintenance. Our team is working hard to finish the updates
+        quickly. We appreciate your patience and will be back online soon
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
