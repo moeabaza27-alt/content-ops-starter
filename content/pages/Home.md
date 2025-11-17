@@ -3,7 +3,10 @@ type: PageLayout
 title: Home
 sections:
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: >-
+      We apologize for the inconvenience our website is temporarily down for
+      scheduled maintenance. Our team is working hard to finish the updates
+      quickly. We appreciate your patience and will be back online soon
     items:
       - type: FeaturedItem
         title: >-
