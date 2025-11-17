@@ -6,9 +6,7 @@ enableSearch: true
 topSections:
   - type: GenericSection
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: ''
     actions: []
     media:
       type: ImageBlock
