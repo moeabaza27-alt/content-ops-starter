@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "**Sephire Concrete Restoration** \n",
+    "text": "<div style=\"text-align: center\">**Sephire Concrete Restoration**</div>\n\n",
     "socialLinks": [
         {
             "altText": "GitHub link",
