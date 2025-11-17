@@ -10,7 +10,7 @@ topSections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/Under Maintenance Loading Yellow Instagram Post (2).png
       altText: Dope design preview
     badge:
       type: Badge
